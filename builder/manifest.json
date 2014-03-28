@@ -1,5 +1,5 @@
 {
-  "build_hash": "b00533d2baf717d9970fa1b1ded6de04",
+  "build_hash": "78c581f90f460e9158b45488b1c5ca60",
   "prefix": "ion-",
   "version": "1.4.1",
   "name": "Ionicons",
@@ -363,6 +363,10 @@
     {
       "code": "0xf10e",
       "name": "arrow-up-c"
+    },
+    {
+      "code": "0xf30d",
+      "name": "asexual"
     },
     {
       "code": "0xf10f",
@@ -1551,6 +1555,10 @@
     {
       "code": "0xf298",
       "name": "levels"
+    },
+    {
+      "code": "0xf30e",
+      "name": "lgbtq"
     },
     {
       "code": "0xf299",
